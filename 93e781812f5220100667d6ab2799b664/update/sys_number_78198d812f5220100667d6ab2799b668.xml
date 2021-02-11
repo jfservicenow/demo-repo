@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_584609_test_app_license_number">x_584609_test_app_license_number</category>
+        <maximum_digits>9</maximum_digits>
+        <number>1</number>
+        <prefix>LIC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 07:35:14</sys_created_on>
+        <sys_id>78198d812f5220100667d6ab2799b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIC</sys_name>
+        <sys_package display_value="Test App" source="x_584609_test_app">93e781812f5220100667d6ab2799b664</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App">93e781812f5220100667d6ab2799b664</sys_scope>
+        <sys_update_name>sys_number_78198d812f5220100667d6ab2799b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 07:35:14</sys_updated_on>
+    </sys_number>
+</record_update>
